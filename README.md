@@ -23,13 +23,21 @@ Reveals the top 10 countries attracting the most tourists, highlighting France, 
 ### GDP vs. Inbound Tourists Line Chart
 Illuminates a correlation between a country's GDP and the number of inbound tourists, emphasizing that higher GDPs correlate with increased tourist numbers. 
 
+![viz2](https://github.com/sahilbharti123/Tourism-Analysis-R/assets/70895213/0139588f-5d8f-4089-9c10-86cd9d81beaf)
+
 ### Bubble Chart of GDP, Inbound Tourists, and Revenue
 Offers a comprehensive view of a country's tourism industry, depicting that high-GDP nations not only attract more tourists but also generate increased revenue from tourism.
+
+![abc](https://github.com/sahilbharti123/Tourism-Analysis-R/assets/70895213/c7f99b5c-559c-4f02-94f6-50abb10bc546)
 
 ### Faceted Line Chart of Outbound Tourists (2009-2019)
 Tracks outbound tourism's growth, categorized by income level, revealing a trend where prosperous countries witness a surge in citizens traveling abroad, linking the nation's international tourism growth to economic success.
 
+![viz4](https://github.com/sahilbharti123/Tourism-Analysis-R/assets/70895213/6f79202a-32d0-481d-92ab-1ffdeabfb771)
+
 ### Faceted Bar Chart of Regional Tourism Revenue
+
+![viz5](https://github.com/sahilbharti123/Tourism-Analysis-R/assets/70895213/bf9b412f-34e6-4734-9bef-2d6eae1b029e)
 
 Compares regions' performance in terms of tourism revenue as a percentage of total income over time. Highlights Asia, Latin America, and the Caribbean with the highest growth, contrasting with North America and Europe experiencing slightly negative growth
 
