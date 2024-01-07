@@ -18,6 +18,7 @@ https://databank.worldbank.org/source/world-development-indicators
 ### World Map of Top Tourist Destinations
 Reveals the top 10 countries attracting the most tourists, highlighting France, the United States, and Spain as popular destinations. Unveils the intriguing question: What factors drive this popularity?
 
+![viz1](https://github.com/sahilbharti123/Tourism-Analysis-R/assets/70895213/bdfc1700-f047-4f14-8950-eb6720c77c55)
 
 ### GDP vs. Inbound Tourists Line Chart
 Illuminates a correlation between a country's GDP and the number of inbound tourists, emphasizing that higher GDPs correlate with increased tourist numbers. 
